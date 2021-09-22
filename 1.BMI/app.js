@@ -15,7 +15,7 @@ m tall.
 § Data 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1.76
 m tall. */
 
-/* Coding Challenge #2
+/* Coding Challenge #1.2
 Use the BMI example from Challenge #1, and the code you already wrote, and
 improve it.
 Your tasks:
